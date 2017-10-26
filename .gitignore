@@ -2,3 +2,5 @@
 *.pyc
 *.db
 microblog/db_repository/
+flasky/migrations/
+*.sqlite
